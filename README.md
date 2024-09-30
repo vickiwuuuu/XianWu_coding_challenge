@@ -13,7 +13,7 @@ You can come up with any questions you would like to solve, and the limit is bey
 7. Compute and Interpret your results.
 8. Complete a short write-up (single-spaced, 11 point font, with a hard limit of 2 pages).
 9. Complete the rest of the short answers on the application.
-10. Include 3 parts as your final submission: Data found online + Code + Write up and short questions on the application.
+10. Include 3 parts as your final submission: Data found online + Code + Write up and short questions on the application. Submit by committing to your private branch cut from this repository.
 
 ### The write up:
 The write up is the portion where you can demonstrate the complete thought processes when you complete the challenge. The suggested write-up comes with
@@ -35,7 +35,7 @@ The write up is the portion where you can demonstrate the complete thought proce
 8. The entire application should typically take around 8 hours. If you are having difficulties on certain parts of the application, come see one of us during office hour or workshops, or schedule a meeting with one of us!
 
 ## Due Dates
-The due date for this coding challenge was originally set around fall break time. However, we apologize to set up the repository very late, so we are now extending the due date of every part of the application to **Thursday, October 17th at 11:59PM** with a 24-hour grace period until **Friday, October 18th at 11:59PM**. **Note:** To qualify for the grace period, you need to submit at least two of the three portions of the coding challenge completed or almost completed before the due date. For example, you committed the application question and the coding challenge and you need a little bit more time on the write-up before the due date, then you can have the extra day to complete your write-up. 
+The due date for this coding challenge was originally set around fall break time. However, we apologize to set up the submission portal very late, so we are now extending the due date of every part of the application to **Thursday, October 17th at 11:59PM** with a 24-hour grace period until **Friday, October 18th at 11:59PM**. **Note:** To qualify for the grace period, you need to submit at least two of the three portions of the coding challenge completed or almost completed before the due date. For example, you committed the application question and the coding challenge and you need a little bit more time on the write-up before the due date, then you can have the extra day to complete your write-up. 
 
 
 
