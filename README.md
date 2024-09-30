@@ -5,15 +5,15 @@ You can come up with any questions you would like to solve, and the limit is bey
 
 ### Here are the general steps to complete the challenge
 1. **Choose a topic**: Select a topic you are interested in. It can be a social issue, a topic in your major field of study, etc. 
-2. **Construct a problem statement**Your problem statement should not exceed 2 sentences. 
-3. Find dataset(s) that is **NOT PRE-CLEANED**. We would like to see how you clean the data.
-4. Clean the data using different libraries. 
-5. Apply appropriate ML/DL or other models to provide you with results
-6. Tailor your model to address the specific problem that you solve.
-7. Compute and Interpret your results.
-8. Complete a short write-up (single-spaced, 11 point font, with a hard limit of 2 pages).
-9. Complete the rest of the short answers on the application.
-10. Include 3 parts as your final submission: Data found online + Code + Write up and short questions on the application. Submit by committing to your private branch cut from this repository.
+2. **Construct a problem statement:** Your problem statement should not exceed 2 sentences. 
+3. **Find dataset(s)** that is **NOT PRE-CLEANED**. We would like to see how you clean the data.
+4. **Data Cleaning** using different libraries.
+5. **Apply appropriate ML/DL** or other models to provide you with results
+6. **Adjust your model** to address the specific problem that you solve.
+7. **Compute and Interpret** your results.
+8. **Complete a short write-up** single-spaced, 11 point font, within 2 pages.
+9. **Complete the application** mainly short answers.
+10. **Final submission** Submit three parts: Data found online + Code + Write up and short questions on the application. Submit by committing to your private branch cut from this repository.
 
 ### The write up:
 The write up is the portion where you can demonstrate the complete thought processes when you complete the challenge. The suggested write-up comes with
