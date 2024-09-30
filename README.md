@@ -3,7 +3,7 @@
 ### The theme of the coding challenge this year is: Free!
 You can come up with any questions you would like to solve, and the limit is beyond the sky. The only advice is that try to keep the scope of the challenge suitable that you can complete the challenge around 2~3 weeks. 
 
-Here are the general steps to complete the challenge
+### Here are the general steps to complete the challenge
 1. Choose a topic you are interested in.
 2. Construct a problem statement. Your problem statement should not exceed 2 sentences. 
 3. Find dataset(s) that is **NOT PRE-CLEANED**. We would like to see how you clean the data.
@@ -15,7 +15,7 @@ Here are the general steps to complete the challenge
 9. Complete the rest of the short answers on the application.
 10. Include 3 parts as your final submission: Data found online + Code + Write up and short questions on the application.
 
-The write up:
+### The write up:
 The write up is the portion where you can demonstrate the complete thought processes when you complete the challenge. The suggested write-up comes with
 1. Background information (several sentences, consists of one or two paragraphs)
 2. Problem statement (1~2 sentences)
@@ -24,7 +24,7 @@ The write up is the portion where you can demonstrate the complete thought proce
 5. Results and Discussion (One or more paragraphs, include any results).
 6. Any outside resources that you use
 
-General tips to complete the coding challenge and application: 
+### General tips to complete the coding challenge and application: 
 1. Having a problem statement before any actions is generally suggested, but that doesn't mean you cannot modify it as you go!
 2. Avoid Kaggle challenge or other online challenge that **HAS DATA PRE-CLEANED FOR YOU**. Cleaning a dataset is an important part of data science project!
 3. Try a few ML/DL models first, then decide which model works the best. Try to limit your final submission to 2 ML/DL models or less. 
