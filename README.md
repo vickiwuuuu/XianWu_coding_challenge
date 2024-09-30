@@ -4,7 +4,7 @@
 You can come up with any questions you would like to solve, and the limit is beyond the sky. The only advice is that try to keep the scope of the challenge suitable that you can complete the challenge around 2~3 weeks. 
 
 ### Here are the general steps to complete the challenge
-1. **Choose a topic**: Select a topic you are interested in. It can be a social issue, a topic in your major field of study, etc. 
+1. **Choose a topic** you are interested in. It can be a social issue, a topic in your major field of study, etc. 
 2. **Construct a problem statement:** Your problem statement should not exceed 2 sentences. 
 3. **Find dataset(s)** that is **NOT PRE-CLEANED**. We would like to see how you clean the data.
 4. **Data Cleaning** using different libraries.
