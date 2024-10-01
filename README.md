@@ -19,7 +19,7 @@ This challenge runs from 10/1 to 10/17, which means that you'll have until 10/17
 There are three levels, with each level directly building off of the last in order to create one full project.
 You can start by going to [Level 1](Level_1/README.md), [Level 2](Level_2/README.md), and [Level 3](Level_3/README.md) to learn the specifics of each problem. All of your notebooks (most of you will have just one) should be in the [Notebook(s)](Notebook(s)) folder, notebooks are files titled (name).py or (name).ipynb. Each level is meant to guide you through the process of cleaning a dataset, creating a model to solve a problem, and evaluating the model that you have created. The code used to solve each of these levels should be in the aforementioned folder. 
 
-As you are doing the coding challenge, you will be asked some guiding questions for each level. Make sure you are able to answer these questions in order to demonstrate that you really understand what you're doing. Based on your answers and your work on the challenge, complete a short write-up: <b>single-spaced, 11 point font, within 2 pages.<b>
+As you are doing the coding challenge, you will be asked some guiding questions for each level. Make sure you are able to answer these questions in order to demonstrate that you really understand what you're doing. We won't be grading these guiding questions, but we expect you to answer them in the next step: Based on your answers and your work on the challenge, complete a short write-up: <b>single-spaced, 11 point font, within 2 pages.<b>
 
 ## The Write-Up
 The write-up is the portion where you can demonstrate the complete thought processes when you complete the challenge. Be sure to include:
