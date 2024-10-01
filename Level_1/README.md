@@ -22,12 +22,10 @@ Your task is to get this data loaded and cleaned in your notebook. This means th
 ## Submission:
 In this folder, you should put the answers from the objective section in a filed called <b>'[name].md'</b> (with the name replaced with yours i.e. janeDoe.md). The code you are using to load the dataset you choose as well as clean the dataset should be located in the [Notebook(s)](/Notebook(s)/) folder, you may title this notebook as you wish.
 
-## Bonus Points!! 💃💃
-+1 point for using Python<br>
-+3 point for using a dataset that is not from Kaggle<br>
-+1 point for coming up with your own focus question<br>
-+2 points for choosing a clustering problem<br>
-+3 points for choosing a Neural Network problem<br>
+## What are we looking for?
+Ideally, use Python for for your coding challenge!<br>
+We strongly encourage you to use a dataset that is not from Kaggle, and to come up with your own focus question.<br>
+Complex problems such as clustering and neural network are evaluated favorably!<br>
 
 ## Tips and Tricks
   **What libraries should I use?**
