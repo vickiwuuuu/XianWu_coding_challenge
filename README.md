@@ -70,5 +70,5 @@ Set to <b>public<b> and click "create repository." All other options can be left
 
 **Q: I finished the assessment, what next?**
 A: Congratulations on finishing the assessment!! 
-Please submit your work on [Github](https://github.com/new?template_name=coding-challenge-FA24&template_owner=VandyDataScience) by making your own branch of the repository so that we can review your work (unsubmited work, even if it is completed, will not be evaluated). After 10/17, we will begin judging all submissions and you can expect an email from us within 1-2 weeks. This is the stage where we will be sending out invitations to interviews! If you need any help submitting your work through Github, reach out to us!
+Please submit the link to your Github repository through the general application form, which will be released shortly after the coding challenge is out. After 10/17, we will begin judging all submissions and you can expect an email from us within 1-2 weeks. This is the stage where we will be sending out invitations to interviews! If you need any help submitting your work through Github, reach out to us!
 
