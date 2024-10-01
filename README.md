@@ -13,7 +13,7 @@ The main goal of this assessment is for us to assess your comfort with using dat
 
 ## The Challenge
 
-This challenge runs from 10/1 to 10/17, which means that you'll have until 10/17 at 11:59pm to finish AND submit your assignment. <u>You must submit your work through the [OA Website](https://vandydatascience-internal.github.io/).</u> 
+This challenge runs from 10/1 to 10/17, which means that you'll have until 10/17 at 11:59pm to finish AND submit your assignment. <u>You must submit your work through [Github](https://github.com/VandyDataScience/coding-challenge-FA24.git).</u> 
 
 
 There are three levels, with each level directly building off of the last in order to create one full project.
@@ -50,4 +50,4 @@ A: Here is the criteria we will be judging on:
 
 **Q: I finished the assessment, what next?**
 A: Congratulations on finishing the assessment!! 
-Please submit your work on [Github](https://vandydatascience-internal.github.io/) by making your own branch of the repository so that we can review your work (unsubmited work, even if it is completed, will not be evaluated). After 10/17, we will begin judging all submissions and you can expect an email from us within 1-2 weeks. This is the stage where we will be sending out invitations to interviews! If you need any help submitting your work through Github, reach out to us!
+Please submit your work on [Github](https://github.com/VandyDataScience/coding-challenge-FA24.git) by making your own branch of the repository so that we can review your work (unsubmited work, even if it is completed, will not be evaluated). After 10/17, we will begin judging all submissions and you can expect an email from us within 1-2 weeks. This is the stage where we will be sending out invitations to interviews! If you need any help submitting your work through Github, reach out to us!
