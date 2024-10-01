@@ -9,7 +9,7 @@ This is the final step in creating a model! If you'll to how different algorithm
 As we have done for levels 1 and 2, you should keep track of your answers to these questions:
 - What evaluation metrics did you choose to use?
 - What was the score you got for each of these metrics?
-- Why were the specific evaluation metrics useful for the focus question you chose<br>
+- Why were the specific evaluation metrics useful for the focus question you chose?<br>
 - Mention any resources you used to help you in this portion of the challenge (we love links!).
 - Any extra information you'd like to include
 
