@@ -48,6 +48,13 @@ A: Here is the criteria we will be judging on:
 - Bonus Points (will not hurt your application, only help it)
     - Explained in each level!
 
+**Q: How do I use Github?**
+A: Follow the steps below: 
+To get local access to your own version of the coding challenge, clone the repository using [Github](https://github.com/new?template_name=coding-challenge-FA24&template_owner=VandyDataScience).
+In the box that says "Repository name," name your repository <b>'[name]_coding_challenge'</b>.
+Set to <b>public<b> and click "create repository." All other options can be left alone. Once you get to your repository, click the green button that says "Code" and clone the repository using the web url. When you are done working on your repository, commit and push all changes. Submit the link to your repository through the general application. 
+
 **Q: I finished the assessment, what next?**
 A: Congratulations on finishing the assessment!! 
-Please submit your work on [Github](https://github.com/VandyDataScience/coding-challenge-FA24.git) by making your own branch of the repository so that we can review your work (unsubmited work, even if it is completed, will not be evaluated). After 10/17, we will begin judging all submissions and you can expect an email from us within 1-2 weeks. This is the stage where we will be sending out invitations to interviews! If you need any help submitting your work through Github, reach out to us!
+Please submit your work on [Github](https://github.com/new?template_name=coding-challenge-FA24&template_owner=VandyDataScience) by making your own branch of the repository so that we can review your work (unsubmited work, even if it is completed, will not be evaluated). After 10/17, we will begin judging all submissions and you can expect an email from us within 1-2 weeks. This is the stage where we will be sending out invitations to interviews! If you need any help submitting your work through Github, reach out to us!
+
