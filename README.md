@@ -63,6 +63,7 @@ A: Here is the criteria we will be judging on:
 
 **Q: How do I use Github?**
 A: Follow the steps below: 
+
 To get local access to your own version of the coding challenge, clone the repository using [Github](https://github.com/new?template_name=coding-challenge-FA24&template_owner=VandyDataScience).
 In the box that says "Repository name," name your repository <b>'[name]_coding_challenge'</b>.
 Set to <b>public<b> and click "create repository." All other options can be left alone. Once you get to your repository, click the green button that says "Code" and clone the repository using the web url. When you are done working on your repository, commit and push all changes. Submit the link to your repository through the general application. 
