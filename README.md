@@ -22,13 +22,14 @@ You can start by going to [Level 1](Level_1/README.md), [Level 2](Level_2/README
 As you are doing the coding challenge, you will be asked some guiding questions for each level. Make sure you are able to answer these questions in order to demonstrate that you really understand what you're doing. Based on your answers and your work on the challenge, complete a short write-up: <b>single-spaced, 11 point font, within 2 pages.<b>
 
 ### The Write-Up:
-The write up is the portion where you can demonstrate the complete thought processes when you complete the challenge. Be sure to include:
+The write-up is the portion where you can demonstrate the complete thought processes when you complete the challenge. Be sure to include:
 1. Background information (1-2 paragraphs)
 2. Problem statement (1-2 sentences)
 3. Hypothesis (Optional, but could make your write-up more cohesive)
 4. Methods (1 or more paragraps, feel free to include different models you tried but emphasize on the model(s) you choose to report the results on)
 5. Results and Discussion (One or more paragraphs, include any results).
 6. Any outside resources that you use
+Submit your write-up as a PDF. You can commit and push this file along with the rest of your code files!
 
 ## Due Dates
 All parts of the application are due on **Thursday, October 17th at 11:59PM** with a 24-hour grace period until **Friday, October 18th at 11:59PM**. **Note:** To qualify for the grace period, you need to submit at least two of the three portions of the coding challenge completed or almost completed before the due date. For example, if you committed the application question and the coding challenge and you need a little bit more time on the write-up before the due date, then you can have the extra day to complete your write-up. 
