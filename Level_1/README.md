@@ -13,14 +13,11 @@ Some of these datasets are silly and some of them are serious, some of them make
 
 
 ## Objective:
-Your task is to get this data loaded and cleaned in your notebook. This means that you should choose what (if any) libraries you are using, and how you are going to clean the data. You should also write a readme file that answers these questions:
+Your task is to get this data loaded and cleaned in your notebook. This means that you should choose what (if any) libraries you are using, and how you are going to clean the data. You should also keep track of your answers to these questions:
 - What is the dataset you chose? (include a link to the dataset)
 - What is the focus question you are trying to answer with this dataset? Include whether this is a classification, clustring, or other type of problem.
 - What is your plan for cleaning this dataset? (you don't have to go into too much detail, just a general idea of what you are going to do) 
 - Any extra information you'd like to include
-
-## Submission:
-In this folder, you should put the answers from the objective section in a filed called <b>'[name].md'</b> (with the name replaced with yours i.e. janeDoe.md). The code you are using to load the dataset you choose as well as clean the dataset should be located in the [Notebook(s)](/Notebook(s)/) folder, you may title this notebook as you wish.
 
 ## What are we looking for?
 Ideally, use Python for for your coding challenge!<br>
