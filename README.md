@@ -21,7 +21,7 @@ You can start by going to [Level 1](Level_1/README.md), [Level 2](Level_2/README
 
 As you are doing the coding challenge, you will be asked some guiding questions for each level. Make sure you are able to answer these questions in order to demonstrate that you really understand what you're doing. Based on your answers and your work on the challenge, complete a short write-up: <b>single-spaced, 11 point font, within 2 pages.<b>
 
-### The Write-Up
+## The Write-Up
 The write-up is the portion where you can demonstrate the complete thought processes when you complete the challenge. Be sure to include:
 1. Background information (1-2 paragraphs)
 2. Problem statement (1-2 sentences)
