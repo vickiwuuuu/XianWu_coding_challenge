@@ -10,7 +10,8 @@ Depending on what focus question you choose and what category it is (classificat
 <br><br>
 Similar to [Level_1](Level_1/README.md), you should keep track of your answers to the following questions:
 - What is your plan for creating this model? (you don't have to go into too much detail, just a general idea of what you are going to do) 
-- Describe the algorithm that you chose and include why you think it is best suited for your problem.
+- Describe the algorithm that you chose.
+- Detailed explanations on why you chose your algorithm and why you think it is best suited for your problem.<br>
 - Mention any resources you used to help you in this portion of the challenge (we love links!).
 - Any extra information you'd like to include
 
@@ -19,7 +20,6 @@ The code you are using to load the dataset you choose as well as clean the datas
 
 ## Bonus Points!!
 - Using Python<br>
-- Detailed explanations on why you chose your algorithm<br>
 - Very nice code comments (up to the grader's discretion)<br>
 
 ## Tips and Tricks

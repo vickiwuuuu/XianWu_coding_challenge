@@ -13,20 +13,23 @@ The main goal of this assessment is for us to assess your comfort with using dat
 
 ## The Challenge
 
+In this challenge, you will be selecting a dataset of your choice, cleaning the data, and creating/analyzing/evaluating a model to solve a problem. You are strongly discouraged from using a dataset/problem statement from Kaggle. Choose a topic that genuinely interests you and explore it in a new way!
+
+
 This challenge runs from 10/1 to 10/17, which means that you'll have until 10/17 at 11:59pm to finish AND submit your assignment. <u>You must submit your work through [Github](https://github.com/VandyDataScience/coding-challenge-FA24.git).</u> 
 
 
 There are three levels, with each level directly building off of the last in order to create one full project.
-You can start by going to [Level 1](Level_1/README.md), [Level 2](Level_2/README.md), and [Level 3](Level_3/README.md) to learn the specifics of each problem. All of your notebooks (most of you will have just one) should be in the [Notebook(s)](Notebook(s)) folder, notebooks are files titled (name).py or (name).ipynb. Each level is meant to guide you through the process of cleaning a dataset, creating a model to solve a problem, and evaluating the model that you have created. The code used to solve each of these levels should be in the aforementioned folder. 
+You can start by going to [Level 1](Level_1/README.md), [Level 2](Level_2/README.md), and [Level 3](Level_3/README.md) to learn the specifics of each problem. All of your notebooks (most of you will have just one) should be in the [Submissions](Submissions) folder, notebooks are files titled (name).py or (name).ipynb. Each level is meant to guide you through the process of cleaning a dataset, creating a model to solve a problem, and evaluating the model that you have created. The code used to solve each of these levels should be in the aforementioned folder. 
 
-As you are doing the coding challenge, you will be asked some guiding questions for each level. Make sure you are able to answer these questions in order to demonstrate that you really understand what you're doing. We won't be grading these guiding questions, but we expect you to answer them in the next step: Based on your answers and your work on the challenge, complete a short write-up: <b>single-spaced, 11 point font, within 2 pages.<b>
+As you are doing the coding challenge, you will be asked some guiding questions for each level. Make sure you are able to answer these questions in order to demonstrate that you really understand what you're doing. We won't be grading these guiding questions, but we expect you to answer them in the next step: Based on your answers and your work on the challenge, complete a short write-up: <b>single-spaced, 11 point font, within 1-2 pages.<b>
 
 ## The Write-Up
 The write-up is the portion where you can demonstrate the complete thought processes when you complete the challenge. Be sure to include:
 1. Background information (1-2 paragraphs)
 2. Problem statement (1-2 sentences)
 3. Hypothesis (Optional, but could make your write-up more cohesive)
-4. Methods (1 or more paragraps, feel free to include different models you tried but emphasize on the model(s) you choose to report the results on)
+4. Methods (1 or more paragraphs, feel free to include different models you tried but emphasize on the model(s) you choose to report the results on)
 5. Results and Discussion (One or more paragraphs, include any results).
 6. Any outside resources that you use
 
