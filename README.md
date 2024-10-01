@@ -1,41 +1,53 @@
-# Coding Challenge 
-## Welcome to the coding challenge for our 2024-2025 year. We are excited to learn more about your coding skills as well as your interests!
-### The theme of the coding challenge this year is: 
-You can come up with any questions you would like to solve, and the limit is beyond the sky. The only advice is that try to keep the scope of the challenge suitable that you can complete the challenge around 2~3 weeks. 
 
-### Here are the general steps to complete the challenge
-1. **Choose a topic** you are interested in. It can be a social issue, a topic in your major field of study, etc. 
-2. **Construct a problem statement:** Your problem statement should not exceed 2 sentences. 
-3. **Find dataset(s)** that is **NOT PRE-CLEANED**. We would like to see how you clean the data.
-4. **Data Cleaning** using different libraries.
-5. **Apply appropriate ML/DL** or other models to provide you with results
-6. **Adjust your model** to address the specific problem that you solve.
-7. **Compute and Interpret** your results.
-8. **Complete a short write-up** single-spaced, 11 point font, within 2 pages.
-9. **Complete the application** mainly short answers.
-10. **Final submission** Submit three parts: Data found online + Code + Write up and short questions on the application. Submit by committing to your private branch cut from this repository.
+Deadline: 10/17 at 11:59 pm
 
-### The write up:
-The write up is the portion where you can demonstrate the complete thought processes when you complete the challenge. The suggested write-up comes with
-1. Background information (several sentences, consists of one or two paragraphs)
-2. Problem statement (1~2 sentences)
-3. Hypothesis (Optional, but could make your write-up more cohesive)
-4. Methods (One or multiple paragraphs, feel free to include different models you tried but emphasize on the model(s) you choose to report the results on.
-5. Results and Discussion (One or more paragraphs, include any results).
-6. Any outside resources that you use
 
-### General tips to complete the coding challenge and application: 
-1. Having a problem statement before any actions is generally suggested, but that doesn't mean you cannot modify it as you go!
-2. Avoid Kaggle challenge or other online challenge that **HAS DATA PRE-CLEANED FOR YOU**. Cleaning a dataset is an important part of data science project!
-3. Try a few ML/DL models first, then decide which model works the best. Try to limit your final submission to 2 ML/DL models or less. 
-4. **Explain your code!**. We would like to see how you can communicate the purpose and goal of your code. This is the time where you can show off that you really understand your code, as well as it leaves room for you to explain anything that is otherwise not easy to show on the code. You should aim to explain every important line of your code with 2 short sentences or less.
-5. Fine-tune your model(s). Adjust the hyperparameters or other methods so that the accuracy will improve. Even though we do not place a very high emphasis on the accuracy of the results, having tried fine-tuning methods will help you understand your model and your problem statement better.
-6. Python is very strongly preferred. We accept submissions both in .py files, Jupyter Notebook, and Google Collab. 
-7. In your write up, you are more than welcome or encouraged to include results of other models you have tried. **Note:** In your write up, the ideal length is around 1.5 page, but the priority is that all of your ideas come through. 
-8. The entire application should typically take around 8 hours. If you are having difficulties on certain parts of the application, come see one of us during office hour or workshops, or schedule a meeting with one of us!
+# 🏝️👩‍💻 VandyDataScience EM/Dev Assessment 2024 👩‍💻🏝️
+
+Hey, amazing person! This is the coding assessment for the EM/Dev position in VandyDataScience (or VDS), an undergraduate student organization dedicated to making a positive difference in our local community through the power of numbers📊. So if you're here because you're interested in joining us for 2024-2025, you're in the right place! And we want to take this chance to sincerely thank you for being interested in us 😊😊.
+
+We've got some really cool projects lined up for this year that we are very excited to work on with you. To do this, however, we want to make sure that everyone who joins us is familiar with the kind of tech that we'll be using during the year. This assessment is a chance for you to get experience with the kind of tools we'll be using in VDS and for us to make sure that we can hit the ground running on these super cool projects that we're going to be doing during the year 😎.
+
+The main goal of this assessment is for us to assess your comfort with using data science to solve real-world issues, and we hope you have fun with the problems we've prepared for you! _(we are realllyy excited to see the innovative solutions you come up with❗)_
+
+
+## The Challenge
+
+This challenge runs from 10/1 to 10/17, which means that you'll have until 10/17 at 11:59pm to finish AND submit your assignment. <u>You must submit your work through the [OA Website](https://vandydatascience-internal.github.io/).</u> 
+
+
+There are three levels, with each level directly building off of the last in order to create one full project.
+You can start by going to [Level 1](Level_1/README.md), [Level 2](Level_2/README.md), and [Level 3](Level_3/README.md) to learn the specifics of each problem. All of your notebooks (most of you will have just one) should be in the [Notebook(s)](Notebook(s)) folder, notebooks are files titled (name).py or (name).ipynb. Each level is meant to guide you through the process of cleaning a dataset, creating a model to solve a problem, and evaluating the model that you have created. The code used to solve each of these levels should be in the aforementioned folder, though each level will have a mini challenge you should submit (the directions are in each level).
 
 ## Due Dates
-The due date for this coding challenge was originally set around fall break time. However, we apologize to set up the submission portal very late, so we are now extending the due date of every part of the application to **Thursday, October 17th at 11:59PM** with a 24-hour grace period until **Friday, October 18th at 11:59PM**. **Note:** To qualify for the grace period, you need to submit at least two of the three portions of the coding challenge completed or almost completed before the due date. For example, you committed the application question and the coding challenge and you need a little bit more time on the write-up before the due date, then you can have the extra day to complete your write-up. 
+All parts of the application are due on **Thursday, October 17th at 11:59PM** with a 24-hour grace period until **Friday, October 18th at 11:59PM**. **Note:** To qualify for the grace period, you need to submit at least two of the three portions of the coding challenge completed or almost completed before the due date. For example, if you committed the application question and the coding challenge and you need a little bit more time on the write-up before the due date, then you can have the extra day to complete your write-up. 
 
+Good luck!!! You got this 😁😁
 
+## FAQ
 
+Please do not hesitate to email [Ryan](ryan.li@vanderbilt.edu), [Ann](ann.e.mathew@vanderbilt.edu), [Isaac](isaac.s.liu@vanderbilt.edu), or anyone else from our exec team if you have any questions whatsoever about this assessemnt, VDS, or life.
+
+**Q: When is the deadline?**
+A: 10/17 at 11:59 pm! No further commits will be accepted after the deadline has passed unless you qualify for the 24 hour grace period.
+
+**Q: What resources can I use?**
+A: Almost anything! Feel free to reference any textbook code solutions, tutorials, StackOverflow posts, and _friend who strongly suggests using a while loop instead of hard coding all the cases in line 374_. Part of learning is not knowing how to solve problems, and we encourage you to find and use resources to overcome it! Keep in mind however, that learning is _not_ copying code verbatim from someone somwehere. Because of this, the only exceptions to our 'almost anything' rule is generative AI such as ChatGPT and no code machine learning platforms such as AutoML. Be prepared that in later stages we will be asking you to explain the solutions you have come up with in this assessment.
+
+**Q: What language should I use?**
+A: We highly recommend Python! Most of the projects we do during the year will use Python, and we will give bonus points to anyone who chooses to use Python in their assessment. Ultimately the language you choose is up to you, though keep in mind some languages are better suited for certain problems _hint hint wink wink 😉_
+
+**Q: How will I be graded?**
+A: Here is the criteria we will be judging on:
+- Problem Solution
+    - Does the solution you chose make sense in context of the problem? 
+- Code Readability
+    - If you left your code and came back to it three years later, could you still understand it?
+- Explanation
+    - How clearly did you explain your thinking process and solution?
+- Bonus Points (will not hurt your application, only help it)
+    - Explained in each level!
+
+**Q: I finished the assessment, what next?**
+A: Congratulations on finishing the assessment!! 
+Please submit your work on the [OA Website](https://vandydatascience-internal.github.io/) so we can review your work (unsubmited work, even if it is completed, will not be evaluated). After 10/16, we will begin judging all submissions and you can expect an email from us within 1-2 weeks. This is the stage where we will be sending out invitations to interviews! If you need any help submitting your work, reach out to us!
