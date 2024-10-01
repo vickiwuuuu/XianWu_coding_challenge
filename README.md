@@ -16,7 +16,7 @@ The main goal of this assessment is for us to assess your comfort with using dat
 In this challenge, you will be selecting a dataset of your choice, cleaning the data, and creating/analyzing/evaluating a model to solve a problem. You are strongly discouraged from using a dataset/problem statement from Kaggle. Choose a topic that genuinely interests you and explore it in a new way!
 
 
-This challenge runs from 10/1 to 10/17, which means that you'll have until 10/17 at 11:59pm to finish AND submit your assignment. <u>You must submit your work through [Github](https://github.com/VandyDataScience/coding-challenge-FA24.git).</u> 
+This challenge runs from 10/1 to 10/17, which means that you'll have **until 10/17 at 11:59pm** to finish AND submit your assignment. <u>You must submit your work through [Github](https://github.com/VandyDataScience/coding-challenge-FA24.git).</u> 
 
 
 There are three levels, with each level directly building off of the last in order to create one full project.
@@ -61,6 +61,7 @@ A: Here is the criteria we will be judging on:
     - If you left your code and came back to it three years later, could you still understand it?
 - Explanation
     - How clearly did you explain your thinking process and solution?
+    - Bonus points will be given for clear, succinct comments within the code. Overly lengthy comments may not be considered as good explanations. 
 - Bonus Points (will not hurt your application, only help it)
     - Explained in each level!
 
