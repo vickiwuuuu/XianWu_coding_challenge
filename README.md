@@ -69,7 +69,7 @@ A: Follow the steps below:
 
 To get local access to your own version of the coding challenge, clone the repository using [Github](https://github.com/new?template_name=coding-challenge-FA24&template_owner=VandyDataScience).
 In the box that says "Repository name," name your repository <b>'[name]_coding_challenge'</b>.
-Set to <b>public<b> and click "create repository." All other options can be left alone. Once you get to your repository, click the green button that says "Code" and clone the repository using the web url. When you are done working on your repository, commit and push all changes. Submit the link to your repository through the general application. 
+Set to <b>public<b> and click "create repository." All other options can be left alone. Once you get to your repository, click the green button that says "Code" and clone the repository using the web url. When you are done working on your repository, commit and push all changes. Submit the link to your repository through the general application uploaded to our Github repo on 10/1. Download the general application document, answer the questions, and include the link to your repository. Add this general application doc to your [Submissions](Submissions) folder to complete your application.   
 
 **Q: I finished the assessment, what next?**
 A: Congratulations on finishing the assessment!! 
