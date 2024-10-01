@@ -29,6 +29,7 @@ The write-up is the portion where you can demonstrate the complete thought proce
 4. Methods (1 or more paragraps, feel free to include different models you tried but emphasize on the model(s) you choose to report the results on)
 5. Results and Discussion (One or more paragraphs, include any results).
 6. Any outside resources that you use
+
 Submit your write-up as a PDF. You can commit and push this file along with the rest of your code files!
 
 ## Due Dates
