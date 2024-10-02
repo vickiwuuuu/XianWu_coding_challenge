@@ -35,8 +35,13 @@ The write-up is the portion where you can demonstrate the complete thought proce
 
 Submit your write-up as a PDF. You can commit and push this file along with the rest of your code files!
 
+## The Application Questions
+
+In addition to your code, you will need to answer some general application questions through [this form](https://vandydatascienceclub.github.io/) on our website. You should also be submitting a link to your repository where you have your code submissions and write-up. 
+
+
 ## Due Dates
-All parts of the application are due on **Thursday, October 17th at 11:59PM** with a 24-hour grace period until **Friday, October 18th at 11:59PM**. **Note:** To qualify for the grace period, you need to submit at least two of the three portions of the coding challenge completed or almost completed before the due date. For example, if you committed the application question and the coding challenge and you need a little bit more time on the write-up before the due date, then you can have the extra day to complete your write-up. 
+All parts of the application are due on **Thursday, October 17th at 11:59PM** with a 24-hour grace period until **Friday, October 18th at 11:59PM**. **Note:** To qualify for the grace period, you need to submit at least two of the three portions of the application completed or almost completed before the due date. For example, if you committed the application questions and the coding challenge and you need a little bit more time on the write-up before the due date, then you can have the extra day to complete your write-up. 
 
 Good luck!!! You got this 😁😁
 
@@ -45,7 +50,7 @@ Good luck!!! You got this 😁😁
 Please do not hesitate to email [Ryan](ryan.li@vanderbilt.edu), [Ann](ann.e.mathew@vanderbilt.edu), [Isaac](isaac.s.liu@vanderbilt.edu), or anyone else from our exec team if you have any questions whatsoever about this assessemnt, VDS, or life.
 
 **Q: When is the deadline?**
-A: 10/17 at 11:59 pm! No further commits will be accepted after the deadline has passed unless you qualify for the 24 hour grace period.
+A: 10/17 at 11:59 pm! No further commits will be accepted after the deadline has passed unless you qualify for the 24 hour grace period. Make sure you have submitted the [application form](https://vandydatascienceclub.github.io/) so that we can keep track of your progress!
 
 **Q: What resources can I use?**
 A: Almost anything! Feel free to reference any textbook code solutions, tutorials, StackOverflow posts, and _friend who strongly suggests using a while loop instead of hard coding all the cases in line 374_. Part of learning is not knowing how to solve problems, and we encourage you to find and use resources to overcome it! Keep in mind however, that learning is _not_ copying code verbatim from someone somwehere. Because of this, the only exceptions to our 'almost anything' rule is generative AI such as ChatGPT and no code machine learning platforms such as AutoML. Be prepared that in later stages we will be asking you to explain the solutions you have come up with in this assessment.
@@ -70,9 +75,15 @@ A: Follow the steps below:
 
 To get local access to your own version of the coding challenge, clone the repository using [Github](https://github.com/new?template_name=coding-challenge-FA24&template_owner=VandyDataScience).
 In the box that says "Repository name," name your repository <b>'[name]_coding_challenge'</b>.
-Set to <b>public<b> and click "create repository." All other options can be left alone. Once you get to your repository, click the green button that says "Code" and clone the repository using the web url. When you are done working on your repository, commit and push all changes. Submit the link to your repository through the general application uploaded to our Github repo on 10/1. Download the general application document, answer the questions, and include the link to your repository. Add this general application doc to your [Submissions](Submissions) folder to complete your application.   
+Set to <b>public<b> and click "create repository." All other options can be left alone. Once you get to your repository, click the green button that says "Code" and clone the repository using the web url. When you are done working on your repository, commit and push all changes. Your repository should contain all your code and your write-up PDF. Submit the link to your repository through the [general application](https://vandydatascienceclub.github.io/) along with your answers to the questions.
 
-**Q: I finished the assessment, what next?**
-A: Congratulations on finishing the assessment!! 
-Please submit the link to your Github repository through the general application form, which will be released shortly after the coding challenge is out. After 10/17, we will begin judging all submissions and you can expect an email from us within 1-2 weeks. This is the stage where we will be sending out invitations to interviews! If you need any help submitting your work through Github, reach out to us!
+**Q: I finished the challenge, what next?**
+A: Congratulations on finishing the challenge!! 
+Please submit the link to your Github repository through the general application form, which can be found [here](https://vandydatascienceclub.github.io/). After 10/17, we will begin judging all submissions and you can expect an email from us within 1-2 weeks. This is the stage where we will be sending out invitations to interviews! If you need any help submitting your work through Github, reach out to us!
 
+**Submission Checklist**
+Did you:
+1. Push all of your code to your repository?
+2. Push the PDF of your write-up to your repository?
+2. Answer all of the questions on the [application form](https://vandydatascienceclub.github.io/)?
+3. Submit the link to your repository in the form above?
