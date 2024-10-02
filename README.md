@@ -37,7 +37,7 @@ Submit your write-up as a PDF. You can commit and push this file along with the 
 
 ## The Application Questions
 
-In addition to your code, you will need to answer some general application questions through [this form](https://vandydatascienceclub.github.io/) on our website. You should also be submitting a link to your repository where you have your code submissions and write-up. 
+In addition to your code, you will need to answer some general application questions through [this form](https://vandydatascienceclub.github.io/application_form.html) on our website. You should also be submitting a link to your repository where you have your code submissions and write-up. 
 
 
 ## Due Dates
@@ -75,15 +75,15 @@ A: Follow the steps below:
 
 To get local access to your own version of the coding challenge, clone the repository using [Github](https://github.com/new?template_name=coding-challenge-FA24&template_owner=VandyDataScience).
 In the box that says "Repository name," name your repository <b>'[name]_coding_challenge'</b>.
-Set to <b>public<b> and click "create repository." All other options can be left alone. Once you get to your repository, click the green button that says "Code" and clone the repository using the web url. When you are done working on your repository, commit and push all changes. Your repository should contain all your code and your write-up PDF. Submit the link to your repository through the [general application](https://vandydatascienceclub.github.io/) along with your answers to the questions.
+Set to <b>public<b> and click "create repository." All other options can be left alone. Once you get to your repository, click the green button that says "Code" and clone the repository using the web url. When you are done working on your repository, commit and push all changes. Your repository should contain all your code and your write-up PDF. Submit the link to your repository through the [general application](https://vandydatascienceclub.github.io/application_form.html) along with your answers to the questions.
 
 **Q: I finished the challenge, what next?**
 A: Congratulations on finishing the challenge!! 
-Please submit the link to your Github repository through the general application form, which can be found [here](https://vandydatascienceclub.github.io/). After 10/17, we will begin judging all submissions and you can expect an email from us within 1-2 weeks. This is the stage where we will be sending out invitations to interviews! If you need any help submitting your work through Github, reach out to us!
+Please submit the link to your Github repository through the general application form, which can be found [here](https://vandydatascienceclub.github.io/application_form.html). After 10/17, we will begin judging all submissions and you can expect an email from us within 1-2 weeks. This is the stage where we will be sending out invitations to interviews! If you need any help submitting your work through Github, reach out to us!
 
 **Submission Checklist**
 Did you:
 1. Push all of your code to your repository?
 2. Push the PDF of your write-up to your repository?
-2. Answer all of the questions on the [application form](https://vandydatascienceclub.github.io/)?
+2. Answer all of the questions on the [application form](https://vandydatascienceclub.github.io/application_form.html)?
 3. Submit the link to your repository in the form above?
