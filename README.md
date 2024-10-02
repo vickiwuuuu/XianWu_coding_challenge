@@ -81,7 +81,7 @@ Set to <b>public<b> and click "create repository." All other options can be left
 A: Congratulations on finishing the challenge!! 
 Please submit the link to your Github repository through the general application form, which can be found [here](https://vandydatascienceclub.github.io/application_form.html). After 10/17, we will begin judging all submissions and you can expect an email from us within 1-2 weeks. This is the stage where we will be sending out invitations to interviews! If you need any help submitting your work through Github, reach out to us!
 
-##Submission Checklist**
+## Submission Checklist
 
 **Did you:**
 1. Push all of your code to your repository?
